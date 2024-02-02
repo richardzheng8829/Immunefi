@@ -403,3 +403,1305 @@
 [submodule "MantleLSP/L2-token-contract"]
 	path = MantleLSP/L2-token-contract
 	url = https://github.com/mantle-lsp/L2-token-contract
+[submodule "BeethovenX/snapshot-strategies"]
+	path = BeethovenX/snapshot-strategies
+	url = https://github.com/beethovenxfi/snapshot-strategies
+[submodule "BeethovenX/linear-pools"]
+	path = BeethovenX/linear-pools
+	url = https://github.com/beethovenxfi/linear-pools
+[submodule "BeethovenX/balancer-v2-monorepo"]
+	path = BeethovenX/balancer-v2-monorepo
+	url = https://github.com/beethovenxfi/balancer-v2-monorepo
+[submodule "Spearbit/portfolio"]
+	path = Spearbit/portfolio
+	url = https://github.com/spearbit/portfolio/
+[submodule "Code4rena/2023-01-astaria"]
+	path = Code4rena/2023-01-astaria
+	url = https://github.com/code-423n4/2023-01-astaria
+[submodule "Code4rena/2023-01-biconomy"]
+	path = Code4rena/2023-01-biconomy
+	url = https://github.com/code-423n4/2023-01-biconomy
+[submodule "Code4rena/2023-01-blockswap-fv"]
+	path = Code4rena/2023-01-blockswap-fv
+	url = https://github.com/code-423n4/2023-01-blockswap-fv
+[submodule "Code4rena/2023-01-canto-identity"]
+	path = Code4rena/2023-01-canto-identity
+	url = https://github.com/code-423n4/2023-01-canto-identity
+[submodule "Code4rena/2023-01-numoen"]
+	path = Code4rena/2023-01-numoen
+	url = https://github.com/code-423n4/2023-01-numoen
+[submodule "Code4rena/2023-01-ondo"]
+	path = Code4rena/2023-01-ondo
+	url = https://github.com/code-423n4/2023-01-ondo
+[submodule "Code4rena/2023-01-opensea"]
+	path = Code4rena/2023-01-opensea
+	url = https://github.com/code-423n4/2023-01-opensea
+[submodule "Code4rena/2023-01-popcorn"]
+	path = Code4rena/2023-01-popcorn
+	url = https://github.com/code-423n4/2023-01-popcorn
+[submodule "Code4rena/2023-01-rabbithole"]
+	path = Code4rena/2023-01-rabbithole
+	url = https://github.com/code-423n4/2023-01-rabbithole
+[submodule "Code4rena/2023-01-reserve"]
+	path = Code4rena/2023-01-reserve
+	url = https://github.com/code-423n4/2023-01-reserve
+[submodule "Code4rena/2023-01-timeswap"]
+	path = Code4rena/2023-01-timeswap
+	url = https://github.com/code-423n4/2023-01-timeswap
+[submodule "Code4rena/2023-02-ethos"]
+	path = Code4rena/2023-02-ethos
+	url = https://github.com/code-423n4/2023-02-ethos
+[submodule "Code4rena/2023-02-kuma"]
+	path = Code4rena/2023-02-kuma
+	url = https://github.com/code-423n4/2023-02-kuma
+[submodule "Code4rena/2023-02-malt"]
+	path = Code4rena/2023-02-malt
+	url = https://github.com/code-423n4/2023-02-malt
+[submodule "Code4rena/2023-03-aragon"]
+	path = Code4rena/2023-03-aragon
+	url = https://github.com/code-423n4/2023-03-aragon
+[submodule "Code4rena/2023-03-asymmetry"]
+	path = Code4rena/2023-03-asymmetry
+	url = https://github.com/code-423n4/2023-03-asymmetry
+[submodule "Code4rena/2023-03-canto-identity"]
+	path = Code4rena/2023-03-canto-identity
+	url = https://github.com/code-423n4/2023-03-canto-identity
+[submodule "Code4rena/2023-03-mute"]
+	path = Code4rena/2023-03-mute
+	url = https://github.com/code-423n4/2023-03-mute
+[submodule "Code4rena/2023-03-neotokyo"]
+	path = Code4rena/2023-03-neotokyo
+	url = https://github.com/code-423n4/2023-03-neotokyo
+[submodule "Code4rena/2023-03-wenwin"]
+	path = Code4rena/2023-03-wenwin
+	url = https://github.com/code-423n4/2023-03-wenwin
+[submodule "Code4rena/2023-03-zksync"]
+	path = Code4rena/2023-03-zksync
+	url = https://github.com/code-423n4/2023-03-zksync
+[submodule "Code4rena/2023-04-caviar"]
+	path = Code4rena/2023-04-caviar
+	url = https://github.com/code-423n4/2023-04-caviar
+[submodule "Code4rena/2023-04-eigenlayer"]
+	path = Code4rena/2023-04-eigenlayer
+	url = https://github.com/code-423n4/2023-04-eigenlayer
+[submodule "Code4rena/2023-04-ens"]
+	path = Code4rena/2023-04-ens
+	url = https://github.com/code-423n4/2023-04-ens
+[submodule "Code4rena/2023-04-frankencoin"]
+	path = Code4rena/2023-04-frankencoin
+	url = https://github.com/code-423n4/2023-04-frankencoin
+[submodule "Code4rena/2023-04-party"]
+	path = Code4rena/2023-04-party
+	url = https://github.com/code-423n4/2023-04-party
+[submodule "Code4rena/2023-04-rubicon"]
+	path = Code4rena/2023-04-rubicon
+	url = https://github.com/code-423n4/2023-04-rubicon
+[submodule "Code4rena/2023-05-ajna"]
+	path = Code4rena/2023-05-ajna
+	url = https://github.com/code-423n4/2023-05-ajna
+[submodule "Code4rena/2023-05-ambire"]
+	path = Code4rena/2023-05-ambire
+	url = https://github.com/code-423n4/2023-05-ambire
+[submodule "Code4rena/2023-05-base"]
+	path = Code4rena/2023-05-base
+	url = https://github.com/code-423n4/2023-05-base
+[submodule "Code4rena/2023-05-chainlink"]
+	path = Code4rena/2023-05-chainlink
+	url = https://github.com/code-423n4/2023-05-chainlink
+[submodule "Code4rena/2023-05-juicebox"]
+	path = Code4rena/2023-05-juicebox
+	url = https://github.com/code-423n4/2023-05-juicebox
+[submodule "Code4rena/2023-05-maia"]
+	path = Code4rena/2023-05-maia
+	url = https://github.com/code-423n4/2023-05-maia
+[submodule "Code4rena/2023-05-party"]
+	path = Code4rena/2023-05-party
+	url = https://github.com/code-423n4/2023-05-party
+[submodule "Code4rena/2023-05-venus"]
+	path = Code4rena/2023-05-venus
+	url = https://github.com/code-423n4/2023-05-venus
+[submodule "Code4rena/2023-05-xeth"]
+	path = Code4rena/2023-05-xeth
+	url = https://github.com/code-423n4/2023-05-xeth
+[submodule "Code4rena/2023-06-ambire-mitigation"]
+	path = Code4rena/2023-06-ambire-mitigation
+	url = https://github.com/code-423n4/2023-06-ambire-mitigation
+[submodule "Code4rena/2023-06-angle"]
+	path = Code4rena/2023-06-angle
+	url = https://github.com/code-423n4/2023-06-angle
+[submodule "Code4rena/2023-06-canto"]
+	path = Code4rena/2023-06-canto
+	url = https://github.com/code-423n4/2023-06-canto
+[submodule "Code4rena/2023-06-llama"]
+	path = Code4rena/2023-06-llama
+	url = https://github.com/code-423n4/2023-06-llama
+[submodule "Code4rena/2023-06-lukso"]
+	path = Code4rena/2023-06-lukso
+	url = https://github.com/code-423n4/2023-06-lukso
+[submodule "Code4rena/2023-06-lybra"]
+	path = Code4rena/2023-06-lybra
+	url = https://github.com/code-423n4/2023-06-lybra
+[submodule "Code4rena/2023-06-reserve"]
+	path = Code4rena/2023-06-reserve
+	url = https://github.com/code-423n4/2023-06-reserve
+[submodule "Code4rena/2023-06-stader"]
+	path = Code4rena/2023-06-stader
+	url = https://github.com/code-423n4/2023-06-stader
+[submodule "Code4rena/2023-07-amphora"]
+	path = Code4rena/2023-07-amphora
+	url = https://github.com/code-423n4/2023-07-amphora
+[submodule "Code4rena/2023-07-arcade"]
+	path = Code4rena/2023-07-arcade
+	url = https://github.com/code-423n4/2023-07-arcade
+[submodule "Code4rena/2023-07-axelar"]
+	path = Code4rena/2023-07-axelar
+	url = https://github.com/code-423n4/2023-07-axelar
+[submodule "Code4rena/2023-07-basin"]
+	path = Code4rena/2023-07-basin
+	url = https://github.com/code-423n4/2023-07-basin
+[submodule "Code4rena/2023-07-chainlink"]
+	path = Code4rena/2023-07-chainlink
+	url = https://github.com/code-423n4/2023-07-chainlink
+[submodule "Code4rena/2023-07-lens"]
+	path = Code4rena/2023-07-lens
+	url = https://github.com/code-423n4/2023-07-lens
+[submodule "Code4rena/2023-07-moonwell"]
+	path = Code4rena/2023-07-moonwell
+	url = https://github.com/code-423n4/2023-07-moonwell
+[submodule "Code4rena/2023-07-nounsdao"]
+	path = Code4rena/2023-07-nounsdao
+	url = https://github.com/code-423n4/2023-07-nounsdao
+[submodule "Code4rena/2023-07-pooltogether"]
+	path = Code4rena/2023-07-pooltogether
+	url = https://github.com/code-423n4/2023-07-pooltogether
+[submodule "Code4rena/2023-07-reserve"]
+	path = Code4rena/2023-07-reserve
+	url = https://github.com/code-423n4/2023-07-reserve
+[submodule "Code4rena/2023-07-tapioca"]
+	path = Code4rena/2023-07-tapioca
+	url = https://github.com/code-423n4/2023-07-tapioca
+[submodule "Code4rena/2023-08-arbitrum"]
+	path = Code4rena/2023-08-arbitrum
+	url = https://github.com/code-423n4/2023-08-arbitrum
+[submodule "Code4rena/2023-08-chainlink"]
+	path = Code4rena/2023-08-chainlink
+	url = https://github.com/code-423n4/2023-08-chainlink
+[submodule "Code4rena/2023-08-dopex"]
+	path = Code4rena/2023-08-dopex
+	url = https://github.com/code-423n4/2023-08-dopex
+[submodule "Code4rena/2023-08-gmx-fv"]
+	path = Code4rena/2023-08-gmx-fv
+	url = https://github.com/code-423n4/2023-08-gmx-fv
+[submodule "Code4rena/2023-08-goodentry"]
+	path = Code4rena/2023-08-goodentry
+	url = https://github.com/code-423n4/2023-08-goodentry
+[submodule "Code4rena/2023-08-livepeer"]
+	path = Code4rena/2023-08-livepeer
+	url = https://github.com/code-423n4/2023-08-livepeer
+[submodule "Code4rena/2023-08-pooltogether"]
+	path = Code4rena/2023-08-pooltogether
+	url = https://github.com/code-423n4/2023-08-pooltogether
+[submodule "Code4rena/2023-08-reserve-mitigation"]
+	path = Code4rena/2023-08-reserve-mitigation
+	url = https://github.com/code-423n4/2023-08-reserve-mitigation
+[submodule "Code4rena/2023-08-shell"]
+	path = Code4rena/2023-08-shell
+	url = https://github.com/code-423n4/2023-08-shell
+[submodule "Code4rena/2023-08-tangible"]
+	path = Code4rena/2023-08-tangible
+	url = https://github.com/code-423n4/2023-08-tangible
+[submodule "Code4rena/2023-08-verwa"]
+	path = Code4rena/2023-08-verwa
+	url = https://github.com/code-423n4/2023-08-verwa
+[submodule "Code4rena/2023-09-centrifuge"]
+	path = Code4rena/2023-09-centrifuge
+	url = https://github.com/code-423n4/2023-09-centrifuge
+[submodule "Code4rena/2023-09-delegate"]
+	path = Code4rena/2023-09-delegate
+	url = https://github.com/code-423n4/2023-09-delegate
+[submodule "Code4rena/2023-09-goodentry-mitigation"]
+	path = Code4rena/2023-09-goodentry-mitigation
+	url = https://github.com/code-423n4/2023-09-goodentry-mitigation
+[submodule "Code4rena/2023-09-maia"]
+	path = Code4rena/2023-09-maia
+	url = https://github.com/code-423n4/2023-09-maia
+[submodule "Code4rena/2023-09-ondo"]
+	path = Code4rena/2023-09-ondo
+	url = https://github.com/code-423n4/2023-09-ondo
+[submodule "Code4rena/2023-09-venus"]
+	path = Code4rena/2023-09-venus
+	url = https://github.com/code-423n4/2023-09-venus
+[submodule "Code4rena/2023-10-badger"]
+	path = Code4rena/2023-10-badger
+	url = https://github.com/code-423n4/2023-10-badger
+[submodule "Code4rena/2023-10-brahma"]
+	path = Code4rena/2023-10-brahma
+	url = https://github.com/code-423n4/2023-10-brahma
+[submodule "Code4rena/2023-10-canto"]
+	path = Code4rena/2023-10-canto
+	url = https://github.com/code-423n4/2023-10-canto
+[submodule "Code4rena/2023-10-ens"]
+	path = Code4rena/2023-10-ens
+	url = https://github.com/code-423n4/2023-10-ens
+[submodule "Code4rena/2023-10-ethena"]
+	path = Code4rena/2023-10-ethena
+	url = https://github.com/code-423n4/2023-10-ethena
+[submodule "Code4rena/2023-10-nextgen"]
+	path = Code4rena/2023-10-nextgen
+	url = https://github.com/code-423n4/2023-10-nextgen
+[submodule "Code4rena/2023-10-opendollar"]
+	path = Code4rena/2023-10-opendollar
+	url = https://github.com/code-423n4/2023-10-opendollar
+[submodule "Code4rena/2023-10-party"]
+	path = Code4rena/2023-10-party
+	url = https://github.com/code-423n4/2023-10-party
+[submodule "Code4rena/2023-10-wildcat"]
+	path = Code4rena/2023-10-wildcat
+	url = https://github.com/code-423n4/2023-10-wildcat
+[submodule "Code4rena/2023-10-zksync"]
+	path = Code4rena/2023-10-zksync
+	url = https://github.com/code-423n4/2023-10-zksync
+[submodule "Code4rena/2023-11-canto"]
+	path = Code4rena/2023-11-canto
+	url = https://github.com/code-423n4/2023-11-canto
+[submodule "Code4rena/2023-11-kelp"]
+	path = Code4rena/2023-11-kelp
+	url = https://github.com/code-423n4/2023-11-kelp
+[submodule "Code4rena/2023-11-panoptic"]
+	path = Code4rena/2023-11-panoptic
+	url = https://github.com/code-423n4/2023-11-panoptic
+[submodule "Code4rena/2023-11-shellprotocol"]
+	path = Code4rena/2023-11-shellprotocol
+	url = https://github.com/code-423n4/2023-11-shellprotocol
+[submodule "Code4rena/2023-12-autonolas"]
+	path = Code4rena/2023-12-autonolas
+	url = https://github.com/code-423n4/2023-12-autonolas
+[submodule "Code4rena/2023-12-ethereumcreditguild"]
+	path = Code4rena/2023-12-ethereumcreditguild
+	url = https://github.com/code-423n4/2023-12-ethereumcreditguild
+[submodule "Code4rena/2023-12-initcapital"]
+	path = Code4rena/2023-12-initcapital
+	url = https://github.com/code-423n4/2023-12-initcapital
+[submodule "Code4rena/2023-12-revolutionprotocol"]
+	path = Code4rena/2023-12-revolutionprotocol
+	url = https://github.com/code-423n4/2023-12-revolutionprotocol
+[submodule "Code4rena/2024-01-curves"]
+	path = Code4rena/2024-01-curves
+	url = https://github.com/code-423n4/2024-01-curves
+[submodule "Code4rena/2024-01-decent"]
+	path = Code4rena/2024-01-decent
+	url = https://github.com/code-423n4/2024-01-decent
+[submodule "Code4rena/2024-01-opus"]
+	path = Code4rena/2024-01-opus
+	url = https://github.com/code-423n4/2024-01-opus
+[submodule "Code4rena/2024-01-renft"]
+	path = Code4rena/2024-01-renft
+	url = https://github.com/code-423n4/2024-01-renft
+[submodule "Code4rena/2024-01-salty"]
+	path = Code4rena/2024-01-salty
+	url = https://github.com/code-423n4/2024-01-salty
+[submodule "LiFi/contracts"]
+	path = LiFi/contracts
+	url = https://github.com/lifinance/contracts/
+[submodule "Lido/lido-dao"]
+	path = Lido/lido-dao
+	url = https://github.com/lidofinance/lido-dao
+[submodule "Lido/docs"]
+	path = Lido/docs
+	url = https://github.com/lidofinance/docs
+[submodule "Lido/scripts"]
+	path = Lido/scripts
+	url = https://github.com/lidofinance/scripts
+[submodule "Lido/lido-council-daemon"]
+	path = Lido/lido-council-daemon
+	url = https://github.com/lidofinance/lido-council-daemon
+[submodule "Lido/easy-track"]
+	path = Lido/easy-track
+	url = https://github.com/lidofinance/easy-track
+[submodule "Lido/anchor-collateral-steth"]
+	path = Lido/anchor-collateral-steth
+	url = https://github.com/lidofinance/anchor-collateral-steth/
+[submodule "Lido/aave-protocol-v2"]
+	path = Lido/aave-protocol-v2
+	url = https://github.com/lidofinance/aave-protocol-v2
+[submodule "Radiant/v2"]
+	path = Radiant/v2
+	url = https://github.com/radiant-capital/v2
+[submodule "Delv/council"]
+	path = Delv/council
+	url = https://github.com/delvtech/council
+[submodule "Nomad/monorepo"]
+	path = Nomad/monorepo
+	url = https://github.com/nomad-xyz/monorepo/
+[submodule "dHEDGE/V2-Public"]
+	path = dHEDGE/V2-Public
+	url = https://github.com/dhedge/V2-Public
+[submodule "LivePeer/arbitrum-lpt-bridge"]
+	path = LivePeer/arbitrum-lpt-bridge
+	url = https://github.com/livepeer/arbitrum-lpt-bridge
+[submodule "LivePeer/protocol"]
+	path = LivePeer/protocol
+	url = https://github.com/livepeer/protocol
+[submodule "Linea/linea-contracts"]
+	path = Linea/linea-contracts
+	url = https://github.com/Consensys/linea-contracts
+[submodule "MakerDAO/dss"]
+	path = MakerDAO/dss
+	url = https://github.com/makerdao/dss
+[submodule "MakerDAO/developerguides"]
+	path = MakerDAO/developerguides
+	url = https://github.com/makerdao/developerguides
+[submodule "MakerDAO/median"]
+	path = MakerDAO/median
+	url = https://github.com/makerdao/median
+[submodule "MakerDAO/osm"]
+	path = MakerDAO/osm
+	url = https://github.com/makerdao/osm
+[submodule "MakerDAO/rwa-toolkit"]
+	path = MakerDAO/rwa-toolkit
+	url = https://github.com/makerdao/rwa-toolkit
+[submodule "MakerDAO/dss-cdp-manager"]
+	path = MakerDAO/dss-cdp-manager
+	url = https://github.com/makerdao/dss-cdp-manager
+[submodule "MakerDAO/dss-proxy-actions"]
+	path = MakerDAO/dss-proxy-actions
+	url = https://github.com/makerdao/dss-proxy-actions
+[submodule "MakerDAO/dss-auto-line"]
+	path = MakerDAO/dss-auto-line
+	url = https://github.com/makerdao/dss-auto-line
+[submodule "MakerDAO/clipper-mom"]
+	path = MakerDAO/clipper-mom
+	url = https://github.com/makerdao/clipper-mom
+[submodule "MakerDAO/dsr-manager"]
+	path = MakerDAO/dsr-manager
+	url = https://github.com/makerdao/dsr-manager
+[submodule "MakerDAO/dss-exec-lib"]
+	path = MakerDAO/dss-exec-lib
+	url = https://github.com/makerdao/dss-exec-lib
+[submodule "MakerDAO/ilk-registry"]
+	path = MakerDAO/ilk-registry
+	url = https://github.com/makerdao/ilk-registry
+[submodule "MakerDAO/line-mom"]
+	path = MakerDAO/line-mom
+	url = https://github.com/makerdao/line-mom
+[submodule "MakerDAO/dss-interfaces"]
+	path = MakerDAO/dss-interfaces
+	url = https://github.com/makerdao/dss-interfaces
+[submodule "MakerDAO/dss-gem-joins"]
+	path = MakerDAO/dss-gem-joins
+	url = https://github.com/makerdao/dss-gem-joins
+[submodule "MakerDAO/dss-psm"]
+	path = MakerDAO/dss-psm
+	url = https://github.com/makerdao/dss-psm
+[submodule "MakerDAO/esm"]
+	path = MakerDAO/esm
+	url = https://github.com/makerdao/esm
+[submodule "MakerDAO/optimism-dai-bridge"]
+	path = MakerDAO/optimism-dai-bridge
+	url = https://github.com/makerdao/optimism-dai-bridge
+[submodule "MakerDAO/arbitrum-dai-bridge"]
+	path = MakerDAO/arbitrum-dai-bridge
+	url = https://github.com/makerdao/arbitrum-dai-bridge
+[submodule "MakerDAO/starknet-dai-bridge"]
+	path = MakerDAO/starknet-dai-bridge
+	url = https://github.com/makerdao/starknet-dai-bridge
+[submodule "MakerDAO/dss-chain-log"]
+	path = MakerDAO/dss-chain-log
+	url = https://github.com/makerdao/dss-chain-log
+[submodule "MakerDAO/dss-cron"]
+	path = MakerDAO/dss-cron
+	url = https://github.com/makerdao/dss-cron
+[submodule "MakerDAO/dss-direct-deposit"]
+	path = MakerDAO/dss-direct-deposit
+	url = https://github.com/makerdao/dss-direct-deposit
+[submodule "MakerDAO/mip21-toolkit"]
+	path = MakerDAO/mip21-toolkit
+	url = https://github.com/makerdao/mip21-toolkit
+[submodule "MakerDAO/mkr-authority"]
+	path = MakerDAO/mkr-authority
+	url = https://github.com/makerdao/mkr-authority
+[submodule "MakerDAO/univ2-lp-oracle"]
+	path = MakerDAO/univ2-lp-oracle
+	url = https://github.com/makerdao/univ2-lp-oracle
+[submodule "MakerDAO/univ3-lp-oracle"]
+	path = MakerDAO/univ3-lp-oracle
+	url = https://github.com/makerdao/univ3-lp-oracle
+[submodule "SmartDex/smart-contracts"]
+	path = SmartDex/smart-contracts
+	url = https://github.com/SmarDex-Dev/smart-contracts
+[submodule "Elixir/vertex-contracts"]
+	path = Elixir/vertex-contracts
+	url = https://github.com/ElixirProtocol/vertex-contracts
+[submodule "Sparklend/sparklend"]
+	path = Sparklend/sparklend
+	url = https://github.com/marsfoundation/sparklend/
+[submodule "Sparklend/aave-v3-core"]
+	path = Sparklend/aave-v3-core
+	url = https://github.com/marsfoundation/aave-v3-core
+[submodule "Cyan/cyan-protocol-v2-public"]
+	path = Cyan/cyan-protocol-v2-public
+	url = https://github.com/usecyan/cyan-protocol-v2-public
+[submodule "Deri/deriprotocol-v4"]
+	path = Deri/deriprotocol-v4
+	url = https://github.com/deri-protocol/deriprotocol-v4
+[submodule "Euphrates/Euphrates"]
+	path = Euphrates/Euphrates
+	url = https://github.com/AcalaNetwork/Euphrates
+[submodule "Polygon/bor"]
+	path = Polygon/bor
+	url = https://github.com/maticnetwork/bor/
+[submodule "Polygon/heimdall"]
+	path = Polygon/heimdall
+	url = https://github.com/maticnetwork/heimdall/
+[submodule "Strike/strike-protocol"]
+	path = Strike/strike-protocol
+	url = https://github.com/StrikeFinance/strike-protocol
+[submodule "Strike/strike-docs"]
+	path = Strike/strike-docs
+	url = https://github.com/StrikeFinance/strike-docs
+[submodule "Strike/strike-app"]
+	path = Strike/strike-app
+	url = https://github.com/StrikeFinance/strike-app
+[submodule "Goldfinch/goldfinch-contracts"]
+	path = Goldfinch/goldfinch-contracts
+	url = https://github.com/goldfinch-eng/goldfinch-contracts
+[submodule "Foundation/fnd-protocol"]
+	path = Foundation/fnd-protocol
+	url = https://github.com/f8n/fnd-protocol
+[submodule "Polkastarter/staking-pols"]
+	path = Polkastarter/staking-pols
+	url = https://github.com/polkastarter/staking-pols
+[submodule "BitcoinSV/bitcoin-sv"]
+	path = BitcoinSV/bitcoin-sv
+	url = https://github.com/bitcoin-sv/bitcoin-sv
+[submodule "Aloe/aloe-ii"]
+	path = Aloe/aloe-ii
+	url = https://github.com/aloelabs/aloe-ii
+[submodule "MtPelerin/bridge-v2"]
+	path = MtPelerin/bridge-v2
+	url = https://github.com/MtPelerin/bridge-v2
+[submodule "Tetu/tetu-contracts"]
+	path = Tetu/tetu-contracts
+	url = https://github.com/tetu-io/tetu-contracts
+[submodule "Tetu/tetu-contracts-v2"]
+	path = Tetu/tetu-contracts-v2
+	url = https://github.com/tetu-io/tetu-contracts-v2
+[submodule "Tetu/tetu-converter"]
+	path = Tetu/tetu-converter
+	url = https://github.com/tetu-io/tetu-converter
+[submodule "Tetu/tetu-liquidator"]
+	path = Tetu/tetu-liquidator
+	url = https://github.com/tetu-io/tetu-liquidator
+[submodule "Tetu/tetu-v2-strategies-polygon"]
+	path = Tetu/tetu-v2-strategies-polygon
+	url = https://github.com/tetu-io/tetu-v2-strategies-polygon
+[submodule "GloDollar/usdglo"]
+	path = GloDollar/usdglo
+	url = https://gitlab.com/global-income-coin/usdglo
+[submodule "Moonwell/moonwell-contracts-v2"]
+	path = Moonwell/moonwell-contracts-v2
+	url = https://github.com/moonwell-fi/moonwell-contracts-v2
+[submodule "Notional/contracts-v2"]
+	path = Notional/contracts-v2
+	url = https://github.com/notional-finance/contracts-v2/
+[submodule "Notional/contracts-v3"]
+	path = Notional/contracts-v3
+	url = https://github.com/notional-finance/contracts-v3/
+[submodule "Notional/leveraged-vaults"]
+	path = Notional/leveraged-vaults
+	url = https://github.com/notional-finance/leveraged-vaults
+[submodule "Notional/staked-note"]
+	path = Notional/staked-note
+	url = https://github.com/notional-finance/staked-note
+[submodule "Notional/wrapped-fcash"]
+	path = Notional/wrapped-fcash
+	url = https://github.com/notional-finance/wrapped-fcash
+[submodule "Aztec/aztec-connect-bridges"]
+	path = Aztec/aztec-connect-bridges
+	url = https://github.com/AztecProtocol/aztec-connect-bridges
+[submodule "Furucombo/furucombo-contract"]
+	path = Furucombo/furucombo-contract
+	url = https://github.com/dinngo/furucombo-contract
+[submodule "Furucombo/furucombo-funds-contract"]
+	path = Furucombo/furucombo-funds-contract
+	url = https://github.com/dinngo/furucombo-funds-contract
+[submodule "Perennial/perennial-mono"]
+	path = Perennial/perennial-mono
+	url = https://github.com/equilibria-xyz/perennial-mono
+[submodule "NFT.fi/nftfi.eth"]
+	path = NFT.fi/nftfi.eth
+	url = https://github.com/NFTfi-Genesis/nftfi.eth
+[submodule "SSVNetworks/ssv-network"]
+	path = SSVNetworks/ssv-network
+	url = https://github.com/bloxapp/ssv-network
+[submodule "HydraDX/HydraDX-node"]
+	path = HydraDX/HydraDX-node
+	url = https://github.com/galacticcouncil/HydraDX-node
+[submodule "Reserve/protocol"]
+	path = Reserve/protocol
+	url = https://github.com/reserve-protocol/protocol
+[submodule "ZeroLiquid/zeroliquid-protocol"]
+	path = ZeroLiquid/zeroliquid-protocol
+	url = https://github.com/ZeroLiquid-xyz/zeroliquid-protocol
+[submodule "ZeroLiquid/vesting-contracts"]
+	path = ZeroLiquid/vesting-contracts
+	url = https://github.com/ZeroLiquid-xyz/vesting-contracts
+[submodule "ZeroLiquid/zeroliquid-audit"]
+	path = ZeroLiquid/zeroliquid-audit
+	url = https://github.com/ZeroLiquid-xyz/zeroliquid-audit
+[submodule "MyntZero/zero"]
+	path = MyntZero/zero
+	url = https://github.com/DistributedCollective/zero
+[submodule "MyntZero/mynt"]
+	path = MyntZero/mynt
+	url = https://github.com/DistributedCollective/mynt
+[submodule "TraderJoeV2/joe-v2"]
+	path = TraderJoeV2/joe-v2
+	url = https://github.com/traderjoe-xyz/joe-v2
+[submodule "TraderJoeV2/LB-Whitepaper"]
+	path = TraderJoeV2/LB-Whitepaper
+	url = https://github.com/traderjoe-xyz/LB-Whitepaper
+[submodule "Push/push-smart-contracts"]
+	path = Push/push-smart-contracts
+	url = https://github.com/ethereum-push-notification-service/push-smart-contracts/
+[submodule "OriginalUSD/origin-dollar"]
+	path = OriginalUSD/origin-dollar
+	url = https://github.com/OriginProtocol/origin-dollar
+[submodule "zkSync/era-system-contracts"]
+	path = zkSync/era-system-contracts
+	url = https://github.com/matter-labs/era-system-contracts
+[submodule "Nayms/contracts-v3"]
+	path = Nayms/contracts-v3
+	url = https://github.com/nayms/contracts-v3
+[submodule "Gearbox/gearbox-contracts"]
+	path = Gearbox/gearbox-contracts
+	url = https://github.com/Gearbox-protocol/gearbox-contracts
+[submodule "Arcade/arcade-protocol"]
+	path = Arcade/arcade-protocol
+	url = https://github.com/arcadexyz/arcade-protocol/
+[submodule "Ref/ref-contracts"]
+	path = Ref/ref-contracts
+	url = https://github.com/ref-finance/ref-contracts
+[submodule "Ref/boost-farm"]
+	path = Ref/boost-farm
+	url = https://github.com/ref-finance/boost-farm
+[submodule "Ref/ref-ve"]
+	path = Ref/ref-ve
+	url = https://github.com/ref-finance/ref-ve
+[submodule "Ref/ref-token"]
+	path = Ref/ref-token
+	url = https://github.com/ref-finance/ref-token
+[submodule "Arbitrum/token-bridge-contracts"]
+	path = Arbitrum/token-bridge-contracts
+	url = https://github.com/OffchainLabs/token-bridge-contracts
+[submodule "Arbitrum/nitro-contracts"]
+	path = Arbitrum/nitro-contracts
+	url = https://github.com/OffchainLabs/nitro-contracts
+[submodule "Arbitrum/governance"]
+	path = Arbitrum/governance
+	url = https://github.com/ArbitrumFoundation/governance
+[submodule "Arbitrum/fund-distribution-contracts"]
+	path = Arbitrum/fund-distribution-contracts
+	url = https://github.com/OffchainLabs/fund-distribution-contracts
+[submodule "Orca/whirlpools"]
+	path = Orca/whirlpools
+	url = https://github.com/orca-so/whirlpools
+[submodule "Sherlock/sherlock-v2-core"]
+	path = Sherlock/sherlock-v2-core
+	url = https://github.com/sherlock-protocol/sherlock-v2-core
+[submodule "Exactly/protocol"]
+	path = Exactly/protocol
+	url = https://github.com/exactly/protocol
+[submodule "Lido/polygon-contracts"]
+	path = Lido/polygon-contracts
+	url = https://github.com/lidofinance/polygon-contracts
+[submodule "Morpho/morpho-blue"]
+	path = Morpho/morpho-blue
+	url = https://github.com/morpho-org/morpho-blue
+[submodule "Morpho/morpho-blue-irm"]
+	path = Morpho/morpho-blue-irm
+	url = https://github.com/morpho-org/morpho-blue-irm
+[submodule "Morpho/morpho-blue-oracles"]
+	path = Morpho/morpho-blue-oracles
+	url = https://github.com/morpho-org/morpho-blue-oracles
+[submodule "Morpho/morpho-aavev3-optimizer"]
+	path = Morpho/morpho-aavev3-optimizer
+	url = https://github.com/morpho-org/morpho-aavev3-optimizer
+[submodule "Morpho/morpho-optimizers"]
+	path = Morpho/morpho-optimizers
+	url = https://github.com/morpho-org/morpho-optimizers
+[submodule "Morpho/metamorpho"]
+	path = Morpho/metamorpho
+	url = https://github.com/morpho-org/metamorpho
+[submodule "Morpho/universal-rewards-distributor"]
+	path = Morpho/universal-rewards-distributor
+	url = https://github.com/morpho-org/universal-rewards-distributor
+[submodule "Stader/bnbX"]
+	path = Stader/bnbX
+	url = https://github.com/stader-labs/bnbX
+[submodule "Stader/stader-liquid-token"]
+	path = Stader/stader-liquid-token
+	url = https://github.com/stader-labs/stader-liquid-token
+[submodule "Astroport/astroport-core"]
+	path = Astroport/astroport-core
+	url = https://github.com/astroport-fi/astroport-core
+[submodule "Hakka/HakkaFinance"]
+	path = Hakka/HakkaFinance
+	url = https://github.com/hakkafinance/HakkaFinance
+[submodule "Hakka/urban-giggle"]
+	path = Hakka/urban-giggle
+	url = https://github.com/hakkafinance/urban-giggle
+[submodule "Hakka/3FMutual"]
+	path = Hakka/3FMutual
+	url = https://github.com/hakkafinance/3FMutual
+[submodule "GYSR/core"]
+	path = GYSR/core
+	url = https://github.com/gysr-io/core
+[submodule "Angle/borrow-contracts"]
+	path = Angle/borrow-contracts
+	url = https://github.com/AngleProtocol/borrow-contracts
+[submodule "Angle/angle-router"]
+	path = Angle/angle-router
+	url = https://github.com/AngleProtocol/angle-router
+[submodule "Angle/angle-transmuter"]
+	path = Angle/angle-transmuter
+	url = https://github.com/AngleProtocol/angle-transmuter
+[submodule "Angle/angle-core"]
+	path = Angle/angle-core
+	url = https://github.com/AngleProtocol/angle-core
+[submodule "Alpaca/bsc-alpaca-contract"]
+	path = Alpaca/bsc-alpaca-contract
+	url = https://github.com/alpaca-finance/bsc-alpaca-contract
+[submodule "Alpaca/alpaca-stablecoin"]
+	path = Alpaca/alpaca-stablecoin
+	url = https://github.com/alpaca-finance/alpaca-stablecoin
+[submodule "Alpaca/alpies-contract"]
+	path = Alpaca/alpies-contract
+	url = https://github.com/alpaca-finance/alpies-contract
+[submodule "Alpaca/alpaca-v2-money-market"]
+	path = Alpaca/alpaca-v2-money-market
+	url = https://github.com/alpaca-finance/alpaca-v2-money-market
+[submodule "Alpaca/alperp-contract"]
+	path = Alpaca/alperp-contract
+	url = https://github.com/alpaca-finance/alperp-contract
+[submodule "Connext/monorepo"]
+	path = Connext/monorepo
+	url = https://github.com/connext/monorepo
+[submodule "Connext/documentation"]
+	path = Connext/documentation
+	url = https://github.com/connext/documentation
+[submodule "Duet/duet-contracts"]
+	path = Duet/duet-contracts
+	url = https://github.com/duet-protocol/duet-contracts
+[submodule "88mph/88mph-contracts"]
+	path = 88mph/88mph-contracts
+	url = https://github.com/88mphapp/88mph-contracts
+[submodule "LooksRare/contracts-exchange-v2"]
+	path = LooksRare/contracts-exchange-v2
+	url = https://github.com/LooksRare/contracts-exchange-v2
+[submodule "LooksRare/contracts-token-staking"]
+	path = LooksRare/contracts-token-staking
+	url = https://github.com/LooksRare/contracts-token-staking
+[submodule "RocketPool/rocketpool"]
+	path = RocketPool/rocketpool
+	url = https://github.com/rocket-pool/rocketpool
+[submodule "Predy/sqrt-contracts"]
+	path = Predy/sqrt-contracts
+	url = https://github.com/predyprotocol/sqrt-contracts
+[submodule "Sector/sector-token"]
+	path = Sector/sector-token
+	url = https://github.com/sector-fi/sector-token
+[submodule "Quadrata/passport-contracts"]
+	path = Quadrata/passport-contracts
+	url = https://github.com/QuadrataNetwork/passport-contracts
+[submodule "Hyperlane/hyperlane-monorepo"]
+	path = Hyperlane/hyperlane-monorepo
+	url = https://github.com/hyperlane-xyz/hyperlane-monorepo
+[submodule "Shell/Shell-Protocol"]
+	path = Shell/Shell-Protocol
+	url = https://github.com/Shell-Protocol/Shell-Protocol
+[submodule "TimelessBunni/bunni"]
+	path = TimelessBunni/bunni
+	url = https://github.com/ZeframLou/bunni
+[submodule "TimelessBunni/timeless"]
+	path = TimelessBunni/timeless
+	url = https://github.com/timeless-fi/timeless
+[submodule "Rysk/dynamic-hedging"]
+	path = Rysk/dynamic-hedging
+	url = https://github.com/rysk-finance/dynamic-hedging
+[submodule "Backstop/dev"]
+	path = Backstop/dev
+	url = https://github.com/backstop-protocol/dev
+[submodule "RhinoFi/contracts_public"]
+	path = RhinoFi/contracts_public
+	url = https://github.com/rhinofi/contracts_public
+[submodule "Davos/davos-contracts"]
+	path = Davos/davos-contracts
+	url = https://github.com/davos-money/davos-contracts/
+[submodule "Summer.fi/multiply-proxy-actions"]
+	path = Summer.fi/multiply-proxy-actions
+	url = https://github.com/OasisDEX/multiply-proxy-actions
+[submodule "Summer.fi/automation-smartcontracts"]
+	path = Summer.fi/automation-smartcontracts
+	url = https://github.com/OasisDEX/automation-smartcontracts
+[submodule "Eco/currency"]
+	path = Eco/currency
+	url = https://github.com/helix-foundation/currency
+[submodule "Eco/eco-claim"]
+	path = Eco/eco-claim
+	url = https://github.com/helix-foundation/eco-claim
+[submodule "Eco/eco-id"]
+	path = Eco/eco-id
+	url = https://github.com/helix-foundation/eco-id
+[submodule "Eco/ecox-lockup"]
+	path = Eco/ecox-lockup
+	url = https://github.com/eco/ecox-lockup
+[submodule "Eco/op-eco"]
+	path = Eco/op-eco
+	url = https://github.com/eco-association/op-eco
+[submodule "Silo/silo-core-v1"]
+	path = Silo/silo-core-v1
+	url = https://github.com/silo-finance/silo-core-v1
+[submodule "eckoDEX/smart-contracts"]
+	path = eckoDEX/smart-contracts
+	url = https://github.com/eckoDAO-org/smart-contracts
+[submodule "Superfluid/protocol-monorepo"]
+	path = Superfluid/protocol-monorepo
+	url = https://github.com/superfluid-finance/protocol-monorepo
+[submodule "Pods/yield-contracts"]
+	path = Pods/yield-contracts
+	url = https://github.com/pods-finance/yield-contracts
+[submodule "BendDAO/bend-lending-protocol"]
+	path = BendDAO/bend-lending-protocol
+	url = https://github.com/BendDAO/bend-lending-protocol
+[submodule "BendDAO/bend-apestaking-v2"]
+	path = BendDAO/bend-apestaking-v2
+	url = https://github.com/BendDAO/bend-apestaking-v2
+[submodule "BendDAO/bend-exchange-protocol"]
+	path = BendDAO/bend-exchange-protocol
+	url = https://github.com/BendDAO/bend-exchange-protocol
+[submodule "BendDAO/bend-gitbook-portal"]
+	path = BendDAO/bend-gitbook-portal
+	url = https://github.com/BendDAO/bend-gitbook-portal
+[submodule "BendDAO/bend-incentive"]
+	path = BendDAO/bend-incentive
+	url = https://github.com/BendDAO/bend-incentive
+[submodule "Primitive/rmm-core"]
+	path = Primitive/rmm-core
+	url = https://github.com/primitivefinance/rmm-core
+[submodule "Primitive/rmm-manager"]
+	path = Primitive/rmm-manager
+	url = https://github.com/primitivefinance/rmm-manager
+[submodule "LayerZero/solidity-examples"]
+	path = LayerZero/solidity-examples
+	url = https://github.com/LayerZero-Labs/solidity-examples
+[submodule "Ocean/contracts"]
+	path = Ocean/contracts
+	url = https://github.com/oceanprotocol/contracts/
+[submodule "Zenlink/zenlink-evm-contracts"]
+	path = Zenlink/zenlink-evm-contracts
+	url = https://github.com/zenlinkpro/zenlink-evm-contracts
+[submodule "ALEX/alex-v1"]
+	path = ALEX/alex-v1
+	url = https://github.com/alexgo-io/alex-v1/
+[submodule "ALEX/alex-dao"]
+	path = ALEX/alex-dao
+	url = https://github.com/alexgo-io/alex-dao
+[submodule "ALEX/alex-bridge-contracts"]
+	path = ALEX/alex-bridge-contracts
+	url = https://github.com/alexgo-io/alex-bridge-contracts
+[submodule "Illuvium/land-sale-contracts"]
+	path = Illuvium/land-sale-contracts
+	url = https://github.com/IlluviumGame/land-sale-contracts
+[submodule "Superbots/superbots_sc"]
+	path = Superbots/superbots_sc
+	url = https://github.com/upbots/superbots_sc
+[submodule "WOOFi/woofi_swap_smart_contracts"]
+	path = WOOFi/woofi_swap_smart_contracts
+	url = https://github.com/woonetwork/woofi_swap_smart_contracts
+[submodule "Imposible/launchpad-contracts"]
+	path = Imposible/launchpad-contracts
+	url = https://github.com/ImpossibleFinance/launchpad-contracts
+[submodule "zkSync/zksync"]
+	path = zkSync/zksync
+	url = https://github.com/matter-labs/zksync
+[submodule "ICHI/ichi-oneToken"]
+	path = ICHI/ichi-oneToken
+	url = https://github.com/ichifarm/ichi-oneToken
+[submodule "Gamma/hypervisor"]
+	path = Gamma/hypervisor
+	url = https://github.com/GammaStrategies/hypervisor/
+[submodule "Tropykus/protocol"]
+	path = Tropykus/protocol
+	url = https://github.com/Tropykus/protocol
+[submodule "Drift/protocol-v2"]
+	path = Drift/protocol-v2
+	url = https://github.com/drift-labs/protocol-v2
+[submodule "Tidal/tidal-contracts"]
+	path = Tidal/tidal-contracts
+	url = https://github.com/TidalFinance/tidal-contracts
+[submodule "Flux/contracts"]
+	path = Flux/contracts
+	url = https://github.com/flux-finance/contracts
+[submodule "Opyn/GammaProtocol"]
+	path = Opyn/GammaProtocol
+	url = https://github.com/opynfinance/GammaProtocol
+[submodule "Swappi/swappi-core"]
+	path = Swappi/swappi-core
+	url = https://github.com/swappidex/swappi-core
+[submodule "Swappi/swappi-periphery"]
+	path = Swappi/swappi-periphery
+	url = https://github.com/swappidex/swappi-periphery
+[submodule "HathorNetowrk/hathor-wallet-lib"]
+	path = HathorNetowrk/hathor-wallet-lib
+	url = https://github.com/HathorNetwork/hathor-wallet-lib
+[submodule "HathorNetowrk/hathor-wallet-mobile"]
+	path = HathorNetowrk/hathor-wallet-mobile
+	url = https://github.com/HathorNetwork/hathor-wallet-mobile
+[submodule "HathorNetowrk/hathor-wallet"]
+	path = HathorNetowrk/hathor-wallet
+	url = https://github.com/HathorNetwork/hathor-wallet
+[submodule "HathorNetowrk/hathor-wallet-headless"]
+	path = HathorNetowrk/hathor-wallet-headless
+	url = https://github.com/HathorNetwork/hathor-wallet-headless
+[submodule "HathorNetowrk/hathor-core"]
+	path = HathorNetowrk/hathor-core
+	url = https://github.com/HathorNetwork/hathor-core
+[submodule "Index/index-coop-smart-contracts"]
+	path = Index/index-coop-smart-contracts
+	url = https://github.com/IndexCoop/index-coop-smart-contracts
+[submodule "Index/index-protocol"]
+	path = Index/index-protocol
+	url = https://github.com/IndexCoop/index-protocol
+[submodule "Symbiosis/audits"]
+	path = Symbiosis/audits
+	url = https://github.com/symbiosis-finance/audits
+[submodule "Symbiosis/core-contracts"]
+	path = Symbiosis/core-contracts
+	url = https://github.com/symbiosis-finance/core-contracts
+[submodule "TinymanV2/tinyman-amm-contracts-v2"]
+	path = TinymanV2/tinyman-amm-contracts-v2
+	url = https://github.com/tinymanorg/tinyman-amm-contracts-v2
+[submodule "SingularityDAO/dynaset-contracts"]
+	path = SingularityDAO/dynaset-contracts
+	url = https://github.com/Singularity-DAO/dynaset-contracts
+[submodule "MUX/mux-protocol"]
+	path = MUX/mux-protocol
+	url = https://github.com/mux-world/mux-protocol
+[submodule "MUX/mux-staking"]
+	path = MUX/mux-staking
+	url = https://github.com/mux-world/mux-staking
+[submodule "Popsicle/Optimizer"]
+	path = Popsicle/Optimizer
+	url = https://github.com/vt-btf/Optimizer
+[submodule "Buttonwood/tranche"]
+	path = Buttonwood/tranche
+	url = https://github.com/buttonwood-protocol/tranche
+[submodule "Buttonwood/button-wrappers"]
+	path = Buttonwood/button-wrappers
+	url = https://github.com/buttonwood-protocol/button-wrappers
+[submodule "Toucan/contracts"]
+	path = Toucan/contracts
+	url = https://github.com/ToucanProtocol/contracts
+[submodule "Liquidswap/liquidswap"]
+	path = Liquidswap/liquidswap
+	url = https://github.com/pontem-network/liquidswap
+[submodule "Geode/Portal-Avax"]
+	path = Geode/Portal-Avax
+	url = https://github.com/Geodefi/Portal-Avax
+[submodule "Ondo/tokenized-funds"]
+	path = Ondo/tokenized-funds
+	url = https://github.com/ondoprotocol/tokenized-funds
+[submodule "Ondo/usdy"]
+	path = Ondo/usdy
+	url = https://github.com/ondoprotocol/usdy
+[submodule "algorand-testbed"]
+	path = algorand-testbed
+	url = https://github.com/pactfi/algorand-testbed
+[submodule "Bond/bond-contracts"]
+	path = Bond/bond-contracts
+	url = https://github.com/Bond-Protocol/bond-contracts
+[submodule "Chainlink/chainlink"]
+	path = Chainlink/chainlink
+	url = https://github.com/smartcontractkit/chainlink
+[submodule "Chainlink/chainlink-solana"]
+	path = Chainlink/chainlink-solana
+	url = https://github.com/smartcontractkit/chainlink-solana
+[submodule "Arbor/arbor-contracts"]
+	path = Arbor/arbor-contracts
+	url = https://github.com/alwaysbegrowing/arbor-contracts
+[submodule "ApeCoin/ape-staking-public"]
+	path = ApeCoin/ape-staking-public
+	url = https://github.com/HorizenLabs/ape-staking-public
+[submodule "Magpie/contracts"]
+	path = Magpie/contracts
+	url = https://github.com/magpiexyz/contracts
+[submodule "Autonomy/autonomy-contracts"]
+	path = Autonomy/autonomy-contracts
+	url = https://github.com/Autonomy-Network/autonomy-contracts
+[submodule "Moola/moola-v2"]
+	path = Moola/moola-v2
+	url = https://github.com/moolamarket/moola-v2
+[submodule "Paribus/paribus-protocol-contracts"]
+	path = Paribus/paribus-protocol-contracts
+	url = https://github.com/Paribus/paribus-protocol-contracts
+[submodule "JustLend/justlend-protocol"]
+	path = JustLend/justlend-protocol
+	url = https://github.com/justlend/justlend-protocol
+[submodule "JustLend/justlend-interface"]
+	path = JustLend/justlend-interface
+	url = https://github.com/justlend/justlend-interface
+[submodule "Stellaswap/core"]
+	path = Stellaswap/core
+	url = https://github.com/stellaswap/core
+[submodule "MultiSafe/multisafe"]
+	path = MultiSafe/multisafe
+	url = https://github.com/Trust-Machines/multisafe
+[submodule "Keep3r/ff"]
+	path = Keep3r/ff
+	url = https://github.com/keep3r-network/ff
+[submodule "Keep3r/OptionsLM"]
+	path = Keep3r/OptionsLM
+	url = https://github.com/keep3r-network/OptionsLM
+[submodule "Keep3r/keep3r.network"]
+	path = Keep3r/keep3r.network
+	url = https://github.com/keep3r-network/keep3r.network
+[submodule "CoW/gp-v2-contracts"]
+	path = CoW/gp-v2-contracts
+	url = https://github.com/gnosis/gp-v2-contracts
+[submodule "Beefy/beefy-v2"]
+	path = Beefy/beefy-v2
+	url = https://github.com/beefyfinance/beefy-v2
+[submodule "Celar/sgn-v2-contracts"]
+	path = Celar/sgn-v2-contracts
+	url = https://github.com/celer-network/sgn-v2-contracts
+[submodule "DeFiSaver/defisaver-v3-contracts"]
+	path = DeFiSaver/defisaver-v3-contracts
+	url = https://github.com/DecenterApps/defisaver-v3-contracts
+[submodule "deBridge/debridge-contracts-v1"]
+	path = deBridge/debridge-contracts-v1
+	url = https://github.com/debridge-finance/debridge-contracts-v1
+[submodule "OpenZeppelin/openzeppelin-contracts"]
+	path = OpenZeppelin/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "OpenZeppelin/openzeppelin-contracts-upgradeable"]
+	path = OpenZeppelin/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+[submodule "BadgerDAO/badger-registry"]
+	path = BadgerDAO/badger-registry
+	url = https://github.com/Badger-Finance/badger-registry
+[submodule "Zerion/defi-sdk"]
+	path = Zerion/defi-sdk
+	url = https://github.com/zeriontech/defi-sdk
+[submodule "PortFinance/variable-rate-lending"]
+	path = PortFinance/variable-rate-lending
+	url = https://github.com/port-finance/variable-rate-lending
+[submodule "PortFinance/sundial"]
+	path = PortFinance/sundial
+	url = https://github.com/port-finance/sundial
+[submodule "Aura/aura-contracts"]
+	path = Aura/aura-contracts
+	url = https://github.com/aurafinance/aura-contracts
+[submodule "Aura/aura-docs"]
+	path = Aura/aura-docs
+	url = https://github.com/aurafinance/aura-docs
+[submodule "WePiggy/wepiggy-contracts"]
+	path = WePiggy/wepiggy-contracts
+	url = https://github.com/WePiggy/wepiggy-contracts
+[submodule "Tokemak/contracts-v1"]
+	path = Tokemak/contracts-v1
+	url = https://github.com/Tokemak/contracts-v1
+[submodule "Flamingo/flamingo-contract-swap"]
+	path = Flamingo/flamingo-contract-swap
+	url = https://github.com/flamingo-finance/flamingo-contract-swap
+[submodule "Flamingo/flamingo-contract-staking-n3"]
+	path = Flamingo/flamingo-contract-staking-n3
+	url = https://github.com/flamingo-finance/flamingo-contract-staking-n3
+[submodule "Flamingo/examples"]
+	path = Flamingo/examples
+	url = https://github.com/neo-project/examples
+[submodule "Marinade/liquid-staking-program"]
+	path = Marinade/liquid-staking-program
+	url = https://github.com/marinade-finance/liquid-staking-program
+[submodule "dForce/liquid-staking-program"]
+	path = dForce/liquid-staking-program
+	url = https://github.com/marinade-finance/liquid-staking-program
+[submodule "dForce/StakingV2"]
+	path = dForce/StakingV2
+	url = https://github.com/dforce-network/StakingV2
+[submodule "Revert/compoundor"]
+	path = Revert/compoundor
+	url = https://github.com/revert-finance/compoundor
+[submodule "Ante/ante-v05-core"]
+	path = Ante/ante-v05-core
+	url = https://github.com/antefinance/ante-v05-core
+[submodule "Sturdy/sturdy-contracts"]
+	path = Sturdy/sturdy-contracts
+	url = https://github.com/sturdyfi/sturdy-contracts
+[submodule "Zodiac/zodiac-module-reality"]
+	path = Zodiac/zodiac-module-reality
+	url = https://github.com/gnosis/zodiac-module-reality
+[submodule "Zodiac/zodiac-modifier-roles"]
+	path = Zodiac/zodiac-modifier-roles
+	url = https://github.com/gnosis/zodiac-modifier-roles
+[submodule "Zodiac/zodiac-module-bridge"]
+	path = Zodiac/zodiac-module-bridge
+	url = https://github.com/gnosis/zodiac-module-bridge
+[submodule "Zodiac/zodiac-module-exit"]
+	path = Zodiac/zodiac-module-exit
+	url = https://github.com/gnosis/zodiac-module-exit
+[submodule "Zodiac/zodiac-modifier-delay"]
+	path = Zodiac/zodiac-modifier-delay
+	url = https://github.com/gnosis/zodiac-modifier-delay
+[submodule "Zodiac/zodiac-guard-scope"]
+	path = Zodiac/zodiac-guard-scope
+	url = https://github.com/gnosis/zodiac-guard-scope
+[submodule "Ambire/wallet"]
+	path = Ambire/wallet
+	url = https://github.com/AmbireTech/wallet
+[submodule "Perpertual/perp-curie-contract"]
+	path = Perpertual/perp-curie-contract
+	url = https://github.com/perpetual-protocol/perp-curie-contract
+[submodule "Helio/helio-smart-contracts"]
+	path = Helio/helio-smart-contracts
+	url = https://github.com/helio-money/helio-smart-contracts
+[submodule "Idex/idex-contracts-silverton"]
+	path = Idex/idex-contracts-silverton
+	url = https://github.com/idexio/idex-contracts-silverton
+[submodule "Idex/idex-farm"]
+	path = Idex/idex-farm
+	url = https://github.com/idexio/idex-farm
+[submodule "Idex/investigations"]
+	path = Idex/investigations
+	url = https://github.com/idexio/investigations
+[submodule "Optopus/octopus-appchain-registry"]
+	path = Optopus/octopus-appchain-registry
+	url = https://github.com/octopus-network/octopus-appchain-registry
+[submodule "Optopus/octopus-appchain-anchor"]
+	path = Optopus/octopus-appchain-anchor
+	url = https://github.com/octopus-network/octopus-appchain-anchor
+[submodule "Tranchess/contract-core"]
+	path = Tranchess/contract-core
+	url = https://github.com/tranchess/contract-core
+[submodule "Spot/spot"]
+	path = Spot/spot
+	url = https://github.com/ampleforth/spot/
+[submodule "MetalSwap/swapsv2"]
+	path = MetalSwap/swapsv2
+	url = https://github.com/DEFI-Foundation/swapsv2
+[submodule "Gear/gear"]
+	path = Gear/gear
+	url = https://github.com/gear-tech/gear
+[submodule "Versagames/versagames-contracts"]
+	path = Versagames/versagames-contracts
+	url = https://github.com/versagames/versagames-contracts
+[submodule "Bao/bao-dao-contracts"]
+	path = Bao/bao-dao-contracts
+	url = https://github.com/baofinance/bao-dao-contracts
+[submodule "Bao/bao-app"]
+	path = Bao/bao-app
+	url = https://github.com/baofinance/bao-app
+[submodule "Bao/BaoDocs-Gitbook"]
+	path = Bao/BaoDocs-Gitbook
+	url = https://github.com/baofinance/BaoDocs-Gitbook
+[submodule "Velvet/audits"]
+	path = Velvet/audits
+	url = https://github.com/Velvet-Capital/audits
+[submodule "Velvet/protocol-v2-public"]
+	path = Velvet/protocol-v2-public
+	url = https://github.com/Velvet-Capital/protocol-v2-public
+[submodule "Aave/gho-core"]
+	path = Aave/gho-core
+	url = https://github.com/aave/gho-core
+[submodule "Aave/aave-v3-core"]
+	path = Aave/aave-v3-core
+	url = https://github.com/aave/aave-v3-core
+[submodule "Aave/aave-v3-periphery"]
+	path = Aave/aave-v3-periphery
+	url = https://github.com/aave/aave-v3-periphery
+[submodule "Aave/governance-v2"]
+	path = Aave/governance-v2
+	url = https://github.com/aave/governance-v2
+[submodule "Aave/docs-gho"]
+	path = Aave/docs-gho
+	url = https://github.com/aave/docs-gho
+[submodule "Aave/aave-address-book"]
+	path = Aave/aave-address-book
+	url = https://github.com/aave/aave-address-book
+[submodule "Aave/interface"]
+	path = Aave/interface
+	url = https://github.com/aave/interface
+[submodule "Aave/protocol-v2"]
+	path = Aave/protocol-v2
+	url = https://github.com/aave/protocol-v2
+[submodule "Aave/aave-stake-v2"]
+	path = Aave/aave-stake-v2
+	url = https://github.com/aave/aave-stake-v2
+[submodule "Aave/docs-v3"]
+	path = Aave/docs-v3
+	url = https://github.com/aave/docs-v3
+[submodule "Aave/docs-v2"]
+	path = Aave/docs-v2
+	url = https://github.com/aave/docs-v2
+[submodule "DefiHackLabs/DeFiHackLabs"]
+	path = DefiHackLabs/DeFiHackLabs
+	url = https://github.com/SunWeb3Sec/DeFiHackLabs
+[submodule "Compound/comet"]
+	path = Compound/comet
+	url = https://github.com/compound-finance/comet
+[submodule "Compound/compound-protocol"]
+	path = Compound/compound-protocol
+	url = https://github.com/compound-finance/compound-protocol
+[submodule "Compound/compound-governance"]
+	path = Compound/compound-governance
+	url = https://github.com/compound-finance/compound-governance
+[submodule "Compound/open-oracle"]
+	path = Compound/open-oracle
+	url = https://github.com/compound-finance/open-oracle
+[submodule "Compound/compound-finance.github.io"]
+	path = Compound/compound-finance.github.io
+	url = https://github.com/compound-finance/compound-finance.github.io
+[submodule "Uniswap/v3-core"]
+	path = Uniswap/v3-core
+	url = https://github.com/Uniswap/v3-core
+[submodule "Uniswap/v3-periphery"]
+	path = Uniswap/v3-periphery
+	url = https://github.com/Uniswap/v3-periphery
+[submodule "Uniswap/interface"]
+	path = Uniswap/interface
+	url = https://github.com/Uniswap/interface
+[submodule "Uniswap/v2-core"]
+	path = Uniswap/v2-core
+	url = https://github.com/Uniswap/v2-core
+[submodule "Uniswap/v4-core"]
+	path = Uniswap/v4-core
+	url = https://github.com/Uniswap/v4-core
+[submodule "Uniswap/docs"]
+	path = Uniswap/docs
+	url = https://github.com/Uniswap/docs
+[submodule "Uniswap/default-token-list"]
+	path = Uniswap/default-token-list
+	url = https://github.com/Uniswap/default-token-list
+[submodule "Uniswap/wallet"]
+	path = Uniswap/wallet
+	url = https://github.com/Uniswap/wallet
+[submodule "Curve/curve-contract"]
+	path = Curve/curve-contract
+	url = https://github.com/curvefi/curve-contract
+[submodule "Curve/curve-stablecoin"]
+	path = Curve/curve-stablecoin
+	url = https://github.com/curvefi/curve-stablecoin
+[submodule "Curve/curve-dao-contracts"]
+	path = Curve/curve-dao-contracts
+	url = https://github.com/curvefi/curve-dao-contracts
+[submodule "Curve/curve-pool-registry"]
+	path = Curve/curve-pool-registry
+	url = https://github.com/curvefi/curve-pool-registry
+[submodule "Venus/venus-protocol"]
+	path = Venus/venus-protocol
+	url = https://github.com/VenusProtocol/venus-protocol
+[submodule "Venus/venus-protocol-interface"]
+	path = Venus/venus-protocol-interface
+	url = https://github.com/VenusProtocol/venus-protocol-interface
+[submodule "Venus/venus-protocol-documentation"]
+	path = Venus/venus-protocol-documentation
+	url = https://github.com/VenusProtocol/venus-protocol-documentation
+[submodule "Venus/isolated-pools"]
+	path = Venus/isolated-pools
+	url = https://github.com/VenusProtocol/isolated-pools
+[submodule "Venus/governance-contracts"]
+	path = Venus/governance-contracts
+	url = https://github.com/VenusProtocol/governance-contracts
+[submodule "Venus/protocol-reserve"]
+	path = Venus/protocol-reserve
+	url = https://github.com/VenusProtocol/protocol-reserve
+[submodule "Venus/token-bridge"]
+	path = Venus/token-bridge
+	url = https://github.com/VenusProtocol/token-bridge
+[submodule "Venus/subgraphs"]
+	path = Venus/subgraphs
+	url = https://github.com/VenusProtocol/subgraphs
+[submodule "Frax/frax-solidity"]
+	path = Frax/frax-solidity
+	url = https://github.com/FraxFinance/frax-solidity
+[submodule "Frax/frax-standard-solidity"]
+	path = Frax/frax-standard-solidity
+	url = https://github.com/FraxFinance/frax-standard-solidity
+[submodule "Frax/frax-governance"]
+	path = Frax/frax-governance
+	url = https://github.com/FraxFinance/frax-governance
+[submodule "Frax/frxETH-public"]
+	path = Frax/frxETH-public
+	url = https://github.com/FraxFinance/frxETH-public
+[submodule "Frax/staked-frax-erc4626"]
+	path = Frax/staked-frax-erc4626
+	url = https://github.com/FraxFinance/staked-frax-erc4626
+[submodule "Frax/frax-bonds"]
+	path = Frax/frax-bonds
+	url = https://github.com/FraxFinance/frax-bonds
+[submodule "Frax/frax-ether-redemption-queue"]
+	path = Frax/frax-ether-redemption-queue
+	url = https://github.com/FraxFinance/frax-ether-redemption-queue
+[submodule "Frax/frax-oracles"]
+	path = Frax/frax-oracles
+	url = https://github.com/FraxFinance/frax-oracles
+[submodule "Frax/fraxlend"]
+	path = Frax/fraxlend
+	url = https://github.com/FraxFinance/fraxlend
+[submodule "Frax/uni-v3-manipulation-simulator"]
+	path = Frax/uni-v3-manipulation-simulator
+	url = https://github.com/FraxFinance/uni-v3-manipulation-simulator
+[submodule "Frax/fraxlend-audit"]
+	path = Frax/fraxlend-audit
+	url = https://github.com/FraxFinance/fraxlend-audit
+[submodule "Liquity/dev"]
+	path = Liquity/dev
+	url = https://github.com/liquity/dev
+[submodule "Liquity/ChickenBond"]
+	path = Liquity/ChickenBond
+	url = https://github.com/liquity/ChickenBond
+[submodule "EIP/EIPs"]
+	path = EIP/EIPs
+	url = https://github.com/ethereum/EIPs
+[submodule "BENQI/BENQI-Smart-Contracts"]
+	path = BENQI/BENQI-Smart-Contracts
+	url = https://github.com/Benqi-fi/BENQI-Smart-Contracts
+[submodule "Prisma/prisma-contracts"]
+	path = Prisma/prisma-contracts
+	url = https://github.com/prisma-fi/prisma-contracts
+[submodule "Prisma/prisma-periphery"]
+	path = Prisma/prisma-periphery
+	url = https://github.com/prisma-fi/prisma-periphery
+[submodule "Prisma/veToken"]
+	path = Prisma/veToken
+	url = https://github.com/prisma-fi/veToken
+[submodule "Prisma/audits"]
+	path = Prisma/audits
+	url = https://github.com/prisma-fi/audits
+[submodule "TornadoCash/tornado-core"]
+	path = TornadoCash/tornado-core
+	url = https://github.com/tornadocash/tornado-core
+[submodule "TornadoCash/tornado-cli"]
+	path = TornadoCash/tornado-cli
+	url = https://github.com/tornadocash/tornado-cli
+[submodule "TornadoCash/tornado-relayer"]
+	path = TornadoCash/tornado-relayer
+	url = https://github.com/tornadocash/tornado-relayer
+[submodule "TornadoCash/docs"]
+	path = TornadoCash/docs
+	url = https://github.com/tornadocash/docs
+[submodule "TornadoCash/tornado-pool-relayer"]
+	path = TornadoCash/tornado-pool-relayer
+	url = https://github.com/tornadocash/tornado-pool-relayer
+[submodule "LayerBank/contracts"]
+	path = LayerBank/contracts
+	url = https://github.com/layerbank/contracts
+[submodule "KelpDAO/KelpDAO-contracts"]
+	path = KelpDAO/KelpDAO-contracts
+	url = https://github.com/Kelp-DAO/KelpDAO-contracts
+[submodule "Arrakis/v2-core"]
+	path = Arrakis/v2-core
+	url = https://github.com/ArrakisFinance/v2-core
+[submodule "Arrakis/vault-v1-core"]
+	path = Arrakis/vault-v1-core
+	url = https://github.com/ArrakisFinance/vault-v1-core
